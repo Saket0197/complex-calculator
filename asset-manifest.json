@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/complex-calculator/static/css/main.6fce6dbb.css",
+    "main.js": "/complex-calculator/static/js/main.58e4d215.js",
+    "index.html": "/complex-calculator/index.html",
+    "main.6fce6dbb.css.map": "/complex-calculator/static/css/main.6fce6dbb.css.map",
+    "main.58e4d215.js.map": "/complex-calculator/static/js/main.58e4d215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fce6dbb.css",
+    "static/js/main.58e4d215.js"
+  ]
+}
